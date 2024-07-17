@@ -1,6 +1,5 @@
 # Build a Maze Solver in Python Using Graphs
 
-This is the code for the Real Python tutorial [Build a Maze Solver in Python Using Graphs](https://realpython.com/python-maze-solver/).
 
 ## Installation
 
